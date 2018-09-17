@@ -2,8 +2,8 @@
 
 Using the following technologies:
 
-- SCSS (for your custom styles instead of plain CSS)
-- [Angular Material](https://material.angular.io/) (for CSS styles and JavaScript widgets)
+- **SCSS** (for your custom styles instead of plain CSS)
+- [**Angular Material**](https://material.angular.io/) (for CSS styles and JavaScript widgets)
 
 Installation instructions for Angular Material with an Angular app:
 
